@@ -13,3 +13,40 @@ Week 2 - [Introduction to Computer Vision](https://github.com/eternaldemon/Tenso
 Week 3 - [Enhancing Vision with Convolutional Neural Networks](https://github.com/eternaldemon/TensorflowinPractice-Specialization/tree/master/Course%201/Week%203)
 
 Week 4 - [Using Real-world Images](https://github.com/eternaldemon/TensorflowinPractice-Specialization/tree/master/Course%201/Week%204)  
+
+**Course 2 - Convolutional Neural Networks in TensorFlow**
+
+Repository Link -[]()
+
+Week 1 - []()
+
+Week 2 - []()
+
+Week 3 - []()
+
+Week 4 - []()
+
+**Course 3 - Natural Language Processing in TensorFlow**
+
+Repository Link -[]()
+
+Week 1 - []()
+
+Week 2 - []()
+
+Week 3 - []()
+
+Week 4 - []()
+
+**Course 4 - Sequence, Time Series and Predictions**
+
+Repository Link -[]()
+
+Week 1 - []()
+
+Week 2 - []()
+
+Week 3 - []()
+
+Week 4 - []()
+
