@@ -14,6 +14,8 @@ Week 3 - [Enhancing Vision with Convolutional Neural Networks](https://github.co
 
 Week 4 - [Using Real-world Images](https://github.com/eternaldemon/TensorflowinPractice-Specialization/tree/master/Course%201/Week%204)  
 
+Extra Resources - [More](https://github.com/eternaldemon/TensorflowinPractice-Specialization/tree/master/Course%201/Extra)
+
 **Course 2 - Convolutional Neural Networks in TensorFlow**
 
 Repository Link -[]()
