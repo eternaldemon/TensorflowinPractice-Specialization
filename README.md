@@ -2,14 +2,14 @@
 This repository contains all the codes submitted and resources from the course TensorFlow in Practice Specialization by DeepLearning.ai by Coursera
 
 
-<b>Course 1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning</b>
+**Course 1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
 
-    Repository Link - https://github.com/eternaldemon/TensorflowinPractice-Specialization/tree/master/Course%201
+Repository Link - [Click Here](https://github.com/eternaldemon/TensorflowinPractice-Specialization/tree/master/Course%201)
 
-    Week 1 - https://github.com/eternaldemon/TensorflowinPractice-Specialization/tree/master/Course%201/Week%201
+Week 1 - [A new programming paradigm](https://github.com/eternaldemon/TensorflowinPractice-Specialization/tree/master/Course%201/Week%201)
 
-    Week 2 - https://github.com/eternaldemon/TensorflowinPractice-Specialization/tree/master/Course%201/Week%202
+Week 2 - [Introduction to Computer Vision](https://github.com/eternaldemon/TensorflowinPractice-Specialization/tree/master/Course%201/Week%202)
 
-    Week 3 - https://github.com/eternaldemon/TensorflowinPractice-Specialization/tree/master/Course%201/Week%203
+Week 3 - [Enhancing Vision with Convolutional Neural Networks](https://github.com/eternaldemon/TensorflowinPractice-Specialization/tree/master/Course%201/Week%203)
 
-    Week 4 - https://github.com/eternaldemon/TensorflowinPractice-Specialization/tree/master/Course%201/Week%204  
+Week 4 - [Using Real-world Images](https://github.com/eternaldemon/TensorflowinPractice-Specialization/tree/master/Course%201/Week%204)  
